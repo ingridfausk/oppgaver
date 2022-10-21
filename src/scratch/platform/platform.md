@@ -1,21 +1,21 @@
 ---
 title: 'Platform'
 level: 1
-author: 'Tor Magne og Ingrid'
+author: 'Tor Magne og Ingrid Fausk'
 language: nb
 ---
 
 
 # Introduksjon {.intro}
 
-Man skal starte med å være en firkantet figur som skal komme seg over hindre. 
+Man skal styre en figur som skal komme seg over hindre. 
 
 ![Bilde av bakke med hindring](bakke2.png)
 
 
 # Steg 1: Lage bakken og figuren {.activity}
 
-Vi tegner en figur selv og bakken som den beveger seg på. Du velger selv hvordan de skal se ut. Slett kattefiguren, og trykk på "tegn". Lag "bakke"
+Vi tegner en figur og bakken som den beveger seg på. Du velger selv hvordan de skal se ut. Slett kattefiguren, og trykk på "tegn". Lag "bakke"
 
 ## Sjekkliste {.check}
 
@@ -59,29 +59,6 @@ Teksten nedenfor sørger for at du kan kontrollere figuren din ved å bruke pilt
 Hvis du tester denne koden, så vil du se at du har en figur som svever i løse lufta, og den kan ikke bevege seg nedover. Vi må legge til tyngdekraft, som gjør at den faller automatisk, men den må ikke falle gjennom bakken. Vi legger til en test på om den berører fargen til bakken. Bruk malebøtte-ikonet for å få eksakt den samme fargen som bakken har. 
 
 <br>
-&nbsp
-<br>
-&nbsp
-<br>
-&nbsp
-<br>
-&nbsp
-<br>
-&nbsp
-<br>
-&nbsp
-<br>
-&nbsp
-<br>
-&nbsp
-<br>
-&nbsp
-<br>
-&nbsp
-<br>
-&nbsp
-<br>
-&nbsp
 
 
   ```blocks 
